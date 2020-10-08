@@ -6156,13 +6156,17 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #F5F2E9 !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
   background-color: #dae0e5 !important;
+}
+
+.bg-light2 {
+  background-color: #EFE9DB !important;
 }
 
 .bg-dark {

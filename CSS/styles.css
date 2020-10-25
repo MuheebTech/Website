@@ -6,15 +6,15 @@ html {
 
 body, p {
 	color: #787976; 
-	font: 400 1rem/1.5625rem "Open Sans", sans-serif;
+	font: 400 1rem/1.5625rem "Montserrat";
 }
 
 .p-large {
-	font: 400 1.125rem/1.625rem "Open Sans", sans-serif;
+	font: 400 1.125rem/1.625rem "Montserrat";
 }
 
 .p-small {
-	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
+	font: 400 0.875rem/1.375rem "Montserrat";
 }
 
 .p-heading {
@@ -205,7 +205,7 @@ strong {
 	left: 1.375rem;
 	color: #787976;
 	opacity: 1;
-	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
+	font: 400 0.875rem/1.375rem "Montserrat";
 	cursor: text;
 	transition: all 0.2s ease;
 }
@@ -238,7 +238,7 @@ strong {
 	border-radius: 0.25rem;
 	background-color: #fff;
 	color: #787976;
-	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
+	font: 400 0.875rem/1.375rem "Montserrat";
 	transition: all 0.2s;
 	-webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
 }
@@ -292,7 +292,7 @@ select::-ms-expand {
 	border-radius: 0.25rem;
 	background-color: #fff;
 	color: #787976;
-	font: 400 1rem/1.5625rem "Open Sans", sans-serif;
+	font: 400 1rem/1.5625rem "Montserrat";
 	transition: all 0.2s;
 }
 
@@ -310,7 +310,7 @@ select::-ms-expand {
 }
 
 .checkbox {
-	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
+	font: 400 0.875rem/1.375rem "Montserrat";
 }
 
 input[type='checkbox'] {
@@ -353,7 +353,7 @@ input[type='checkbox'] {
 	display: block;
 	margin-bottom: 0;
 	color: #b93636;
-	font: 400 1.125rem/1rem "Open Sans", sans-serif;
+	font: 400 1.125rem/1rem "Montserrat";
 }
 
 .help-block.with-errors .list-unstyled {
@@ -598,7 +598,7 @@ input[type='checkbox'] {
 	padding-bottom: 0.375rem;
 	background-color: #113448;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
-	font: 600 0.875rem/0.875rem "Open Sans", sans-serif;
+	font: 600 0.875rem/0.875rem "Montserrat";
 	transition: all 0.2s;
 }
 
@@ -675,7 +675,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item .item-text {
-	font: 600 0.875rem/0.875rem "Open Sans", sans-serif;
+	font: 600 0.875rem/0.875rem "Montserrat";
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
@@ -724,8 +724,9 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/header-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0,0,255,0.3), rgba(0, 0, 0, 0.5)), url('../images/pexels-burst-374861.jpg') center center no-repeat;
 	background-size: cover;
+	background-color:rgba(0,0,255,0.3);
 }
 
 .header .header-content {
@@ -1051,7 +1052,7 @@ input[type='checkbox'] {
 .tabs #tab-1 .progress-container .title {
 	margin-bottom: 0.25rem;
 	color: #484a46;
-	font: 600 0.875rem/1.25rem "Open Sans", sans-serif;
+	font: 600 0.875rem/1.25rem "Montserrat";
 }
 
 .tabs #tab-1 .progress {

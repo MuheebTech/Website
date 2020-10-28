@@ -71,12 +71,12 @@ a:hover {
 }
 
 a.green {
-	color: #14bf98;
+	color: #69b6ed;
 }
 
 a.white,
 .white {
-	color: #dfe5ec;
+	color: #69b6ed;
 }
 
 .testimonial-text {
@@ -92,7 +92,7 @@ strong {
 }
 
 .section-title {
-	color: #14bf98;
+	color: #69b9ed;
 	font: 500 0.8125rem/1.125rem "Montserrat", sans-serif;
 }
 
@@ -110,16 +110,16 @@ strong {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #14bf98;
+	color: #69b9ed;
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.125rem 1.375rem 2.125rem;
-	border: 0.125rem solid #14bf98;
+	border: 0.125rem solid #69b9ed;
 	border-radius: 0.25rem;
-	background-color: #14bf98;
+	background-color: #69b9ed;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -128,7 +128,7 @@ strong {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #14bf98;
+	color: #69b9ed;
 	text-decoration: none;
 }
 
@@ -634,7 +634,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: #14bf98;
+	color: #69b9ed;
 }
 
 /* Dropdown Menu */
@@ -741,7 +741,7 @@ input[type='checkbox'] {
 
 .header h1 {
 	margin-bottom: 0.5rem;
-	color: #fff;
+	color: #69b9ed;
 }
 
 .header .p-large {
@@ -842,6 +842,7 @@ input[type='checkbox'] {
 
 .cards-1 .card-title {
 	margin-bottom: 0.625rem;
+	color: #69b9ed;
 }
 
 
@@ -1619,7 +1620,7 @@ input[type='checkbox'] {
 .form-2 .list-unstyled .fab {
 	margin-right: 0.5rem;
 	font-size: 0.875rem;
-	color: #14bf98;
+	color: #69b6ed;
 }
 
 .form-2 .list-unstyled .fa-phone {
@@ -1717,7 +1718,7 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: #14bf98 url("../images/up-arrow.png") no-repeat center 47%;
+	background: #69b9ed url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
